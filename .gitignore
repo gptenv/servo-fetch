@@ -3,6 +3,8 @@
 **/*.rs.bk
 *.pdb
 *.profraw
+/worker/core/target/
+/worker/node_modules/
 
 # Servo storage artifacts
 IndexedDB/
